@@ -1,3 +1,5 @@
+package com.kuang.base;
+
 public class HelloWorld {
     public static void main(String[] args) {
         //单行注释
